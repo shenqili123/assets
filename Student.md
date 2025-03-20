@@ -1,5 +1,5 @@
 
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">沈启立</div> <img src='https://github.com/shenqili123/assets/blob/main/photo.jpg' alt="Qili Shen" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">沈启立</div> <img src='https://github.com/shenqili123/assets/blob/main/photo.jpg' alt="Qili Shen" width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
 Intelligent Decision-Making for Urban Air Mobility Systems
 
 Qili Shen (沈启立), Tongji University (同济大学)
